@@ -1,1 +1,2 @@
-# react-task_3
+# React_Color_Picker
+Created with CodeSandbox
